@@ -20,7 +20,7 @@ In this challenge we build a timed coding quiz with multiple-choice questions.
 
 ## Mock-up
 
- ![This is how it looks](assets/images/Code%20Quiz.gif)
+ ![This is how it looks](Assets/images/Code%20Quiz.gif)
 
 
  ## The Work
@@ -49,6 +49,6 @@ In this challenge we build a timed coding quiz with multiple-choice questions.
 
  ## Link to the application
 
-* [Visit the application here!](https://qgtere.github.io/)
+* [Visit the application here!](https://qgtere.github.io/Challenge4-TimedQuiz/)
 
 ---
